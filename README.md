@@ -1,5 +1,5 @@
 # PyPiano
-*This was a Pygame program I wrote as an underclassmen circa 2017. 
+*This was a Pygame program I wrote as an underclassmen at ACC circa 2017, relatively primitive. 
 
 How to download Python 3.6.0, Pygame, and run PlayerPiano.py for Windows
 1. First go to: https://www.python.org/
